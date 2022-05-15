@@ -1,0 +1,39 @@
+dept_name,title,count
+Production,Technique Leader,1508
+Quality Management,Technique Leader,369
+Development,Technique Leader,1675
+Customer Service,Technique Leader,17
+Research,Technique Leader,34
+Finance,Staff,915
+Customer Service,Staff,934
+Research,Staff,918
+Production,Staff,64
+Sales,Staff,2755
+Marketing,Staff,1023
+Development,Staff,88
+Human Resources,Staff,939
+Sales,Senior Staff,8939
+Customer Service,Senior Staff,3115
+Human Resources,Senior Staff,2972
+Marketing,Senior Staff,3383
+Production,Senior Staff,265
+Development,Senior Staff,238
+Research,Senior Staff,2947
+Finance,Senior Staff,3067
+Customer Service,Senior Engineer,166
+Quality Management,Senior Engineer,2624
+Production,Senior Engineer,10615
+Research,Senior Engineer,207
+Development,Senior Engineer,12304
+Sales,Manager,1
+Research,Manager,1
+Development,Engineer,4414
+Quality Management,Engineer,963
+Customer Service,Engineer,59
+Research,Engineer,76
+Production,Engineer,3773
+Research,Assistant Engineer,6
+Development,Assistant Engineer,520
+Quality Management,Assistant Engineer,113
+Customer Service,Assistant Engineer,8
+Production,Assistant Engineer,443
